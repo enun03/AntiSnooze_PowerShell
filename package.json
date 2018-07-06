@@ -1,0 +1,10 @@
+{
+  "name": "AntiSnooze",
+  "version": "1.0.0",
+  "description": "Prevents Windows PC from entering Sleep Mode",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["PowerShell"],
+  "license": "MIT"
+}
